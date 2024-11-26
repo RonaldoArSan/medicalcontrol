@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "module": "commonjs",
+      "lib": ["es6", "dom"],
+      "jsx": "react-native",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "noEmit": true
+    },
+    "include": [
+      "src/**/*" // Ajuste o caminho conforme a estrutura do seu projeto
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }

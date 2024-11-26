@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231545454344",
+    "project_id": "medcontrol-41d69",
+    "storage_bucket": "medcontrol-41d69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231545454344:android:a21d72775f19cfb59d36bd",
+        "android_client_info": {
+          "package_name": "com.ronaldoarsan.medcontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6dRrEa968Q0aKO1AfaL6dtrMDpYjYRQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
